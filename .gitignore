@@ -1,0 +1,11 @@
+lab1
+lab1.pub
+lab2
+lab2.pub
+mykey
+mykey.pub
+terraform.tfstate
+.terraform/plugins/linux_amd64/lock.json
+.terraform/plugins/linux_amd64/terraform-provider-aws_v2.62.0_x4
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
